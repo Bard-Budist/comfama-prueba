@@ -1,0 +1,31 @@
+.home {
+  width: 100vw;
+  height: 100vh;
+
+}
+
+.search-div {
+  width: 100vw;
+  height: 30%;
+  background: #303030;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search {
+  align-content: center;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+.search input {
+  background: transparent;
+  border: none;
+  height: 6vh;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  width: 90%;
+}
